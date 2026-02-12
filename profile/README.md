@@ -1,7 +1,7 @@
 # DCPS Lab  
-## Laboratório de Sistemas Ciberfísicos Determinísticos
+## Laboratório de Sistemas Ciberfísicos Determinísticos / Deterministic Cyber-Physical Systems (DCPS)
 
-O DCPS Lab dedica-se ao estudo de arquiteturas embarcadas determinísticas, estruturas de comunicação segura e sistemas ciberfísicos com consciência energética, voltados para aplicações em infraestrutura crítica e ambientes industriais.
+O DCPS dedica-se ao estudo de arquiteturas embarcadas determinísticas, estruturas de comunicação segura e sistemas ciberfísicos com consciência energética, voltados para aplicações em infraestrutura crítica e ambientes industriais.
 
 ---
 
