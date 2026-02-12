@@ -86,7 +86,7 @@ Para informações sobre colaboração ou projetos de pesquisa, entre em contato
 
 Prof. Luiz Fernando M. Arruda
 
-email: luiz.arruda@ieee.org
+e-mail: luiz.arruda@ieee.org
 
 ---
 
