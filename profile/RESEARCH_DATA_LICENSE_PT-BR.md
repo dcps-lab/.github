@@ -70,7 +70,7 @@ Solicitações de acesso por terceiros deverão ser encaminhadas para:
 
 Prof. Luiz Fernando M. Arruda
 
-email: luiz.arruda@ieee.org
+e-mail: luiz.arruda@ieee.org
 
 ---
 
@@ -86,5 +86,6 @@ DCPS Lab — Deterministic Cyber-Physical Systems Laboratory
 
 Prof. Luiz Fernando M. Arruda
 
-email: luiz.arruda@ieee.org
+e-mail: luiz.arruda@ieee.org
+
 
