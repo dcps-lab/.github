@@ -13,7 +13,7 @@ Investigar e desenvolver sistemas embarcados determinísticos, seguros e de alta
 
 ## 🔬 Linhas de Pesquisa
 
-### 1️⃣ Arquiteturas Embarcadas Determinísticas
+### 1️⃣ Sistemas Embarcados Determinísticos
 - Análise de latência e jitter
 - Avaliação de desempenho em tempo real
 - Caracterização experimental de sistemas embarcados
@@ -25,11 +25,13 @@ Investigar e desenvolver sistemas embarcados determinísticos, seguros e de alta
 - Integridade e resiliência de dados
 - Implementações seguras em ambientes embarcados
 
-### 3️⃣ Sistemas Ciberfísicos com Consciência Energética
-- Monitoramento embarcado de sistemas elétricos
-- Arquiteturas IoT aplicadas à energia
-- Comunicação determinística em sistemas energéticos
-- Aplicações em infraestrutura industrial
+## 3️⃣ Sistemas Ciberfísicos Aplicados a IoT
+- Monitoramento embarcado de sistemas físicos  
+- Arquiteturas IoT aplicadas a controle e monitoramento  
+- Comunicação determinística em sistemas embarcados  
+- Integração entre sensores, atuadores e processamento em tempo real  
+- Aplicações em infraestrutura industrial  
+- Plataformas distribuídas para aquisição e processamento de dados  
 
 ## 4️⃣ Eletrônica de Potência e Controle Digital
 - Conversores estáticos (DC-DC, AC-DC, DC-AC)  
