@@ -37,7 +37,7 @@ Investigar e desenvolver sistemas embarcados determinísticos, seguros e de alta
 
 A produção científica do DCPS Lab está organizada em repositório dedicado:
 
-🔗 [DCPS Lab — Publicações](https://github.com/dcps-lab/dcps-publications)
+🔗 [DCPS Lab — Publicações](https://github.com/dcps-lab/publications/blob/main/PUBLICATIONS.md)
 
 As publicações são organizadas por categoria e ano, com DOI e repositórios vinculados.
 
