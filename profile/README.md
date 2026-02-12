@@ -31,6 +31,15 @@ Investigar e desenvolver sistemas embarcados determinísticos, seguros e de alta
 - Comunicação determinística em sistemas energéticos
 - Aplicações em infraestrutura industrial
 
+## 4️⃣ Eletrônica de Potência e Controle Digital
+- Conversores estáticos (DC-DC, AC-DC, DC-AC)  
+- Arquiteturas multinível e conversores modulares    
+- Controle digital de potência em tempo real  
+- Compensação de potência reativa e qualidade de energia  
+- Análise de estabilidade dinâmica e transitória  
+- Validação experimental em bancada e HIL (Hardware-in-the-Loop)  
+- Integração entre eletrônica de potência e comunicação determinística
+  
 ---
 
 ## 📚 Produção Científica
