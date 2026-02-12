@@ -84,6 +84,9 @@ Consolidar um ambiente estruturado de pesquisa em arquiteturas embarcadas determ
 
 Para informações sobre colaboração ou projetos de pesquisa, entre em contato com o coordenador do laboratório.
 
+Prof. Luiz Fernando M. Arruda
+email: luiz.arruda@uniavan.edu.br
+
 ---
 
-*DCPS Lab — Engenharia de sistemas determinísticos e seguros para a próxima geração de sistemas ciberfísicos.*
+*DCPS Lab — Laboratório de Sistemas Ciberfísicos Determinísticos.*
