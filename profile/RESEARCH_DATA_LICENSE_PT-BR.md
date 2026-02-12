@@ -49,7 +49,7 @@ A condição de autor não implica transferência de titularidade dos dados ou d
 
 ## 4. Continuidade Científica
 
-Caso o pesquisador opte por não submeter para publicação os resultados gerados no âmbito do Laboratório dentro de prazo acadêmico razoável, o Laboratório reserva-se o direito de analisar e publicar tais resultados, garantindo o devido reconhecimento acadêmico da contribuição do pesquisador.
+Caso o pesquisador opte por não submeter para publicação os resultados gerados no âmbito do Laboratório, o Laboratório reserva-se o direito de analisar e publicar tais resultados, garantindo o devido reconhecimento acadêmico da contribuição do pesquisador.
 
 Resultados obtidos com o uso de infraestrutura institucional não poderão ser indefinidamente retidos ou bloqueados para divulgação científica.
 
@@ -87,3 +87,4 @@ DCPS Lab — Deterministic Cyber-Physical Systems Laboratory
 Prof. Luiz Fernando M. Arruda
 
 email: luiz.arruda@ieee.org
+
