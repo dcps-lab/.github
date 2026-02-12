@@ -1,88 +1,89 @@
 # DCPS Lab  
-## Deterministic Cyber-Physical Systems Laboratory
+## Laboratório de Sistemas Ciberfísicos Determinísticos
 
-The DCPS Lab focuses on deterministic embedded architectures, secure communication frameworks, and power-aware cyber-physical systems for critical infrastructure and industrial applications.
-
----
-
-## 🎯 Mission
-
-To investigate and develop deterministic, secure, and high-reliability embedded systems that integrate computation, communication, and energy domains.
+O DCPS Lab dedica-se ao estudo de arquiteturas embarcadas determinísticas, estruturas de comunicação segura e sistemas ciberfísicos com consciência energética, voltados para aplicações em infraestrutura crítica e ambientes industriais.
 
 ---
 
-## 🔬 Research Focus
+## 🎯 Missão
 
-### 1️⃣ Deterministic Embedded Architectures
-- Real-time communication analysis
-- Latency and jitter evaluation
-- Embedded systems performance characterization
-- Industrial and vehicular bus systems (CAN, MQTT, etc.)
-
-### 2️⃣ Secure Communication for Cyber-Physical Systems
-- Lightweight cryptography benchmarking
-- Communication overhead analysis
-- Data integrity and resilience
-- Secure embedded implementations
-
-### 3️⃣ Power-Aware Cyber-Physical Systems
-- Embedded monitoring for electrical systems
-- IoT-based energy measurement architectures
-- Deterministic communication in energy systems
-- Industrial and infrastructure applications
+Investigar e desenvolver sistemas embarcados determinísticos, seguros e de alta confiabilidade que integrem computação, comunicação e energia em sistemas ciberfísicos modernos.
 
 ---
 
-## 🧪 Methodological Standards
+## 🔬 Linhas de Pesquisa
 
-All DCPS Lab projects must include:
+### 1️⃣ Arquiteturas Embarcadas Determinísticas
+- Análise de latência e jitter
+- Avaliação de desempenho em tempo real
+- Caracterização experimental de sistemas embarcados
+- Barramentos industriais e veiculares (CAN, MQTT, entre outros)
 
-- Clearly defined research problem
-- Explicit hypothesis
-- Quantitative performance metrics
-- Reproducible experimental methodology
-- Statistical analysis (mean, standard deviation, confidence interval)
-- Version-controlled source code
-- Organized datasets
+### 2️⃣ Comunicação Segura para Sistemas Ciberfísicos
+- Benchmark de criptografia leve
+- Avaliação de overhead computacional
+- Integridade e resiliência de dados
+- Implementações seguras em ambientes embarcados
 
-Projects that do not meet these criteria are not considered official DCPS Lab research outputs.
-
----
-
-## 📂 Repository Structure
-
-
----
-
-Each project repository must contain:
-- Technical README
-- Experimental description
-- Reproducible scripts
-- Documented results
+### 3️⃣ Sistemas Ciberfísicos com Consciência Energética
+- Monitoramento embarcado de sistemas elétricos
+- Arquiteturas IoT aplicadas à energia
+- Comunicação determinística em sistemas energéticos
+- Aplicações em infraestrutura industrial
 
 ---
 
-## 🤝 Collaboration
+## 🧪 Padrões Metodológicos
 
-The DCPS Lab encourages collaboration in:
+Todos os projetos do DCPS Lab devem conter obrigatoriamente:
 
-- Deterministic communication systems
-- Secure embedded architectures
-- Cyber-physical infrastructure systems
-- Energy-aware embedded platforms
+- Definição clara do problema
+- Hipótese testável
+- Métricas quantitativas
+- Metodologia experimental reproduzível
+- Tratamento estatístico mínimo (média, desvio padrão, intervalo de confiança)
+- Código versionado
+- Organização estruturada dos dados experimentais
 
----
-
-## 🌍 Long-Term Vision
-
-To build a structured research environment bridging embedded systems, deterministic communication, and secure cyber-physical architectures with applications in critical infrastructure and energy systems.
-
----
-
-## 📧 Contact
-
-For collaboration or research inquiries, please contact the lab coordinator.
+Projetos que não atendam a esses critérios não são considerados produtos oficiais do DCPS Lab.
 
 ---
 
-*DCPS Lab — Engineering deterministic and secure systems for the next generation of cyber-physical infrastructures.*
+## 📂 Estrutura dos Repositórios
+
+---
+
+Cada projeto deve conter:
+
+- README técnico detalhado
+- Descrição do ambiente experimental
+- Scripts reproduzíveis
+- Resultados organizados
+- Discussão técnica estruturada
+
+---
+
+## 🤝 Colaboração
+
+O DCPS Lab incentiva colaboração nas áreas de:
+
+- Comunicação determinística
+- Sistemas embarcados seguros
+- Arquiteturas para infraestrutura crítica
+- Integração entre sistemas computacionais e energéticos
+
+---
+
+## 🌍 Visão de Longo Prazo
+
+Consolidar um ambiente estruturado de pesquisa em arquiteturas embarcadas determinísticas e comunicação segura para sistemas ciberfísicos aplicados à infraestrutura crítica e sistemas energéticos.
+
+---
+
+## 📧 Contato
+
+Para informações sobre colaboração ou projetos de pesquisa, entre em contato com o coordenador do laboratório.
+
+---
+
+*DCPS Lab — Engenharia de sistemas determinísticos e seguros para a próxima geração de sistemas ciberfísicos.*
