@@ -49,7 +49,7 @@ Authorship does not imply personal ownership of the underlying research data or 
 
 ## 4. Publication Continuity
 
-If a researcher elects not to pursue publication of results generated within the Laboratory within a reasonable academic timeframe, the Laboratory reserves the right to analyze and publish the findings, ensuring appropriate academic acknowledgment of the researcher’s contribution.
+If a researcher elects not to pursue publication of results generated within the Laboratory, the Laboratory reserves the right to analyze and publish the findings, ensuring appropriate academic acknowledgment of the researcher’s contribution.
 
 Research generated using institutional infrastructure cannot be indefinitely withheld from scientific dissemination.
 
@@ -70,7 +70,7 @@ All third-party access requests must be formally submitted to:
 
 Prof. Luiz Fernando M. Arruda
 
-email: luiz.arruda@ieee.org
+e-mail: luiz.arruda@ieee.org
 
 ---
 
@@ -86,4 +86,5 @@ DCPS Lab — Deterministic Cyber-Physical Systems Laboratory
 
 Prof. Luiz Fernando M. Arruda
 
-email: luiz.arruda@ieee.org
+e-mail: luiz.arruda@ieee.org
+
